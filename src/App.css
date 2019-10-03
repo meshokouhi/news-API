@@ -107,14 +107,14 @@ li a:hover:not(.active) {
 input{
   font-size: 14px;
   border-radius: 5px;
-  width: 150px;
+  width:120px;
   border :  rgb(206, 203, 203) 1px solid;
   margin-left: 20px;
 }
 
 select{
   font-size: 14px;
-  width: 60px;
+  width: 55px;
   text-align: center;
   background-color: white;
   border-color : rgb(206, 203, 203);
